@@ -27,4 +27,4 @@ Barista is a command-line tool written in Go that generates horizontal bar chart
 
 ## License
 
-This project is licensed under the Unlicense - see the LICENSE file for details.
+This project is licensed under the Unlicense - see the [UNLICENSE](UNLICENSE) file for details.
